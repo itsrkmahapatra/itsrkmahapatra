@@ -1,36 +1,55 @@
-# 👋 itsrkmahapatra
+---
+title: "Raj Kishor Mahapatra | Web Developer & Open Source Creator"
+description: "Developer portfolio showcasing open-source, privacy-first web utilities built with JavaScript."
+keywords: "developer portfolio, open source, project showcase, developer profile, web developer, javascript"
+author: "Raj Kishor Mahapatra"
+---
 
-## 🎯 Overview
-This is the official developer portfolio of Raj Kishor Mahapatra. It serves as a centralized hub for showcasing high-impact software projects, technical skills, and professional achievements in the fields of Full-Stack Development and AI.
+# 👋 Hi, I'm Raj Kishor Mahapatra
 
-## ✨ Key Features
-- **Project Showcase**: Detailed overview of flagship projects like [InkScribe](https://itsrkmahapatra.github.io/InkScribe/) and [PromptForge](https://itsrkmahapatra.github.io/PromptForge/).
-- **Skill Matrix**: Comprehensive breakdown of technical competencies in Frontend, Backend, and Tools.
-- **Live Demos**: Direct access to all functional portals and utilities including [API-Master](https://itsrkmahapatra.github.io/API-Master/) and [Docuvate](https://itsrkmahapatra.github.io/Docuvate/).
-- **Interactive UI**: Clean, professional, and mobile-responsive design for optimal viewing.
+**Web Developer | Open Source Advocate | JavaScript Enthusiast**
 
-## 🚀 Get Started
-**Access the live portal:**
-[👉 Visit Developer Portfolio](https://itsrkmahapatra.github.io/itsrkmahapatra/)
+Welcome to my GitHub profile! I specialize in building **free, privacy-first, client-side web applications** that solve real-world problems. My philosophy is simple: software should be accessible (no installations), respectful of privacy (no forced cloud uploads), and performant.
 
-Explore the interactive portfolio to see featured projects, check out GitHub statistics, and connect with the developer for collaborations.
-
-## 🛠️ Technology Stack
-- HTML5 (Structural Base)
-- CSS3 (Visual Design)
-- JavaScript (Interactivity)
-
-## 📜 License & Copyright
-© 2026 Raj Kishor Mahapatra. All Rights Reserved.
-
-**License:** Read-Only License (Personal Portfolio)
-- ✅ Allowed: Access and view through the live portal
-- ❌ Prohibited: Modification, commercial sale, or code reproduction
-
-For inquiries: raju.chikitigada@gmail.com
-
-## 🤝 About the Developer
-Developed by **Raj Kishor Mahapatra** - Full-Stack Developer, AI Enthusiast, Open-Source Contributor
+📧 **Contact**: [raju.chikitigada@gmail.com](mailto:raju.chikitigada@gmail.com)
+🌐 **Portfolio**: [itsrkmahapatra.github.io](https://itsrkmahapatra.github.io/)
 
 ---
-*For more projects, visit: https://github.com/itsrkmahapatra*
+
+## 🚀 Featured Open Source Projects (Live Portals)
+
+All my tools are 100% free, require zero installation, and run securely in your browser.
+
+### ✍️ [InkScribe](https://itsrkmahapatra.github.io/InkScribe/)
+**Digital text to realistic handwriting converter.**
+- Instantly export to PDF.
+- 100% client-side processing for ultimate privacy.
+
+### 🤖 [PromptForge](https://itsrkmahapatra.github.io/PromptForge/)
+**AI Prompt Generator & Optimizer.**
+- Templates for ChatGPT, Claude, and Midjourney.
+- Elevate your AI engineering instantly from the browser.
+
+### 📄 [Docuvate](https://itsrkmahapatra.github.io/Docuvate/)
+**Complete PDF & Image Processing Suite.**
+- 35+ tools powered by WebAssembly.
+- Secure, offline-capable document manipulation.
+
+### 🔌 [API-Master](https://itsrkmahapatra.github.io/API-Master/)
+**Node.js Express REST API Learning Resource.**
+- Explore robust backend architecture directly online.
+
+---
+
+## 🛠️ Technical Arsenal
+
+- **Languages**: JavaScript (ES6+), HTML5, CSS3, TypeScript
+- **Backend/APIs**: Node.js, Express.js, RESTful Architecture
+- **Concepts**: Client-Side Processing, WebAssembly (WASM), PWA (Offline-First), UI/UX
+- **Focus Areas**: Privacy-first applications, Zero-installation web tools
+
+---
+
+## 🤝 Let's Connect
+I am always open to discussing web development, open-source collaborations, or new tool ideas. 
+Please reach out via email at **raju.chikitigada@gmail.com**.
