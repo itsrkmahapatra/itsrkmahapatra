@@ -1,15 +1,15 @@
 ---
 title: "Raj Kishor Mahapatra | Web Developer & Open Source Creator"
-description: "Developer portfolio showcasing open-source, privacy-first web utilities built with JavaScript."
-keywords: "developer portfolio, open source, project showcase, developer profile, web developer, javascript"
+description: "Developer portfolio showcasing open-source, privacy-first web utilities and cryptographic frameworks."
+keywords: "developer portfolio, open source, project showcase, developer profile, web developer, javascript, cryptography, post-quantum"
 author: "Raj Kishor Mahapatra"
 ---
 
 # 👋 Hi, I'm Raj Kishor Mahapatra
 
-**Web Developer | Open Source Advocate | JavaScript Enthusiast**
+**Web Developer | Open Source Advocate | Cryptography Enthusiast**
 
-Welcome to my GitHub profile! I specialize in building **free, privacy-first, client-side web applications** that solve real-world problems. My philosophy is simple: software should be accessible (no installations), respectful of privacy (no forced cloud uploads), and performant.
+Welcome to my GitHub profile! I specialize in building **free, privacy-first, client-side web applications** and **high-assurance cryptographic frameworks** that solve real-world problems. My philosophy is simple: software should be accessible (no installations), respectful of privacy (no forced cloud uploads), and performant.
 
 📧 **Contact**: [raju.chikitigada@gmail.com](mailto:raju.chikitigada@gmail.com)
 🌐 **Portfolio**: [itsrkmahapatra.github.io](https://itsrkmahapatra.github.io/)
@@ -18,7 +18,12 @@ Welcome to my GitHub profile! I specialize in building **free, privacy-first, cl
 
 ## 🚀 Featured Open Source Projects (Live Portals)
 
-All my tools are 100% free, require zero installation, and run securely in your browser.
+All my tools are 100% free, require zero installation, and run securely in your browser or local environment.
+
+### 🔐 [QRVEF](https://itsrkmahapatra.github.io/qrvef/)
+**Quantum-Resistant Verifiable Erasure Framework.**
+- Resolve the MiFID II vs GDPR paradox with verifiable crypto-shredding.
+- Hybrid Post-Quantum KEM (FIPS 203) & zk-STARK auditing.
 
 ### ✍️ [InkScribe](https://itsrkmahapatra.github.io/InkScribe/)
 **Digital text to realistic handwriting converter.**
@@ -43,10 +48,11 @@ All my tools are 100% free, require zero installation, and run securely in your 
 
 ## 🛠️ Technical Arsenal
 
-- **Languages**: JavaScript (ES6+), HTML5, CSS3, TypeScript
-- **Backend/APIs**: Node.js, Express.js, RESTful Architecture
+- **Languages**: Python (Cryptographic middleware), JavaScript (ES6+), HTML5, CSS3, TypeScript
+- **Backend/APIs**: Node.js, Express.js, FastAPI, RESTful Architecture
+- **Security**: Post-Quantum Cryptography (ML-KEM), Zero-Knowledge Proofs (zk-STARKs), NIST SP 800-88
 - **Concepts**: Client-Side Processing, WebAssembly (WASM), PWA (Offline-First), UI/UX
-- **Focus Areas**: Privacy-first applications, Zero-installation web tools
+- **Focus Areas**: Privacy-first applications, Zero-installation web tools, Verifiable Data Sanitization
 
 ---
 
