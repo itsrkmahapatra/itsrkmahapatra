@@ -22,3 +22,8 @@ I provide strategic keynotes and consulting on navigating the evolving intersect
 
 ---
 *© 2026 Raj Kishor Mahapatra // DATA ARCHIVE*
+
+
+## 📥 Download Application
+- [🖥️ Windows Download (.exe)](https://github.com/itsrkmahapatra/itsrkmahapatra/releases/download/v1.0.0/itsrkmahapatra.exe)
+- [📱 Android Download (.apk)](https://github.com/itsrkmahapatra/itsrkmahapatra/releases/download/v1.0.0/itsrkmahapatra.apk)
