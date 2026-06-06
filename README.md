@@ -25,5 +25,5 @@ I provide strategic keynotes and consulting on navigating the evolving intersect
 
 
 ## 📥 Download Application
-- [🖥️ Windows Download (.exe)](https://github.com/itsrkmahapatra/itsrkmahapatra/releases/download/v1.0.0/itsrkmahapatra.exe)
-- [📱 Android Download (.apk)](https://github.com/itsrkmahapatra/itsrkmahapatra/releases/download/v1.0.0/itsrkmahapatra.apk)
+- [🖥️ Windows Download (.exe)](https://github.com/itsrkmahapatra/itsrkmahapatra/releases/latest
+- [📱 Android Download (.apk)](https://github.com/itsrkmahapatra/itsrkmahapatra/releases/latest
